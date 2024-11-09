@@ -1,0 +1,67 @@
+Power BI
+
+Data view for DAX queries
+Model view: To establish relationships between datasets
+
+You can go to transform data to make changes like addition of column etc 
+
+Home tab ==> Group by
+basic or advanced
+
+For basic
+select the type of colmn(category in which you want to group)==> new colm name ==> operation type ==> Column(operation kispe
+karey)
+
+For advanced you can do the same things on multiple columns at once and perform the operations on the same
+
+After making those changes, make sure to go to home and click on close and apply
+
+Go to table view and click on add column and here on top you can write query to make new col on some new formula
+
+
+In the relationship view it shows the relation between the tables through common column
+
+Cardinality
+both tables have a common name but have unique values then it is 1:1 but if they are repeating on both tables then it is many to many
+
+Report View
+
+title: Text box
+Charts: Stacked column charts (ensure datatype of each column is correct)
+
+You can use drill down or drill up option or just select that parameter from the table hierarchy 
+
+Select the same on line and area to have it shown on different views
+
+Come out of every chart and go to format background and in canvas
+
+play with transparency
+
+play with properties => effects => background
+
+Remove gridlines
+remove titles from x and y axis
+
+In the visuals, You can change the color of the bars through columns
+use fx function to set more rules, conditional formatting
+
+Rules under formatting type
+
+
+Stacked bar graph: For sub-category
+
+Use format painter to get same style for other tables
+
+Use filter pane: To get top categories, Click on drop down and select filter type,  select value(on which basis top values needed) click on apply filter
+
+For the cards, There are multiple parameters we can show: Quantity, profit, amount and average order value (which is not present)
+
+Create the column for it in the data view
+Average Order Value: AOV: Amount/quantity
+
+
+Filters for connecting all the charts, tables, graphs etc. (Slicer)
+
+I want to filter the dashboard on the basis of quarters (could be done for weeks/days/months)
+
+better representation ke liye go with the tile in visuals under slicer settings
